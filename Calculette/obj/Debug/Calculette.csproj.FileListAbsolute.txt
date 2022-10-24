@@ -1,0 +1,10 @@
+C:\Users\yanis\source\repos\Calculette\Calculette\bin\Debug\Calculette.exe.config
+C:\Users\yanis\source\repos\Calculette\Calculette\bin\Debug\Calculette.exe
+C:\Users\yanis\source\repos\Calculette\Calculette\bin\Debug\Calculette.pdb
+C:\Users\yanis\source\repos\Calculette\Calculette\obj\Debug\Calculette.csprojAssemblyReference.cache
+C:\Users\yanis\source\repos\Calculette\Calculette\obj\Debug\Calculette.Form1.resources
+C:\Users\yanis\source\repos\Calculette\Calculette\obj\Debug\Calculette.Properties.Resources.resources
+C:\Users\yanis\source\repos\Calculette\Calculette\obj\Debug\Calculette.csproj.GenerateResource.cache
+C:\Users\yanis\source\repos\Calculette\Calculette\obj\Debug\Calculette.csproj.CoreCompileInputs.cache
+C:\Users\yanis\source\repos\Calculette\Calculette\obj\Debug\Calculette.exe
+C:\Users\yanis\source\repos\Calculette\Calculette\obj\Debug\Calculette.pdb
